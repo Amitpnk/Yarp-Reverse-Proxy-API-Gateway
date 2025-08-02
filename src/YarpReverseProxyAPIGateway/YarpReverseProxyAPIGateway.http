@@ -1,0 +1,6 @@
+@YarpReverseProxyAPIGateway_HostAddress = http://localhost:5111
+
+GET {{YarpReverseProxyAPIGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
